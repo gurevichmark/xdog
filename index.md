@@ -16,6 +16,4 @@ Downloading xDOG dependencies:
   
 Latest documentation:
 
-  * [Quick Start Guide](https://xcat-docs.readthedocs.io/en/stable/overview/quick_start.html)
-  
-[Latest release notes](https://github.com/xcat2/xcat-core/wiki/XCAT_2.14.2_Release_Notes)
+  * [Quick Start Guide](https://github.com/gurevichmark/xdog/wiki/Quick-Start-Guide)
